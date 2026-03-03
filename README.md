@@ -1,9 +1,10 @@
-#start the server
-rails s
+// start the server: rails s
 
-#Run at the beginning
+// Run at the beginning:
+
 rails db:migrate
+
 bundle install 
 
-#check the routes
-rails routes
+
+// check the routes: rails routes
